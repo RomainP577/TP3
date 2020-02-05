@@ -76,3 +76,5 @@ int main(){
             printf("Empty Slot");
         }
     } 
+return 0;
+}
